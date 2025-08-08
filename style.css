@@ -1,0 +1,18 @@
+:root{
+    --cor-fundo:rgba(100, 37, 151, 0.467);
+    --cor-principal:#5c5cd3;
+    --cor-secundaria:rgba(69, 173, 221, 0.4);
+    --cor-texto:#251291;
+    --cor-destaque:#0000;
+}
+body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.imagem-principal{
+    
+}
